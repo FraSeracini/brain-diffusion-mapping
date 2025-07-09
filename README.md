@@ -11,16 +11,14 @@ The repository contains the following main components:
 - **Coursework1.pdf**  
   This is the coursework specification document provided by the instructor. It outlines the core and advanced tasks, required deliverables, and submission instructions.
 
-- **COMP0118_CW1_Report.pdf**  
+- **COMP0118_Coursework1.pdf**  
   This is the final written report (maximum 3 pages) that describes the methodology, analysis, and results for all the required tasks. It references both the code and figures.
 
-- **COMP0118_Coursework1_Figures/**  
-  This folder contains all figures and tables referenced in the report. Each figure is numbered and includes a short caption, as required by the coursework instructions.
+- **COMP0118_Coursework1_Figures**  
+  This document contains all figures and tables referenced in the report. Each figure is numbered and includes a short caption, as required by the coursework instructions.
 
 - **COMP0118_Coursework1_Code/**  
   This folder includes all MATLAB scripts and functions used to perform the parameter estimation, model fitting, and mapping tasks described in the report. It contains:
-  
-  - `Coursework1_Code.m` — Main script implementing all core parts of the coursework.
 
 ## Requirements
 
