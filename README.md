@@ -29,20 +29,20 @@ The repository contains the following main components:
 ## Running the Code
 
 1. **Load the data**: Use the provided instructions to load `dwis`, `bvecs`, and generate `bvals`.
-2. **Execute main script**: Run `Coursework1_Code.m` to reproduce the results discussed in the report.
+2. **Execute scripts for each question**: Run `Q.1.1`, `Q.1.2`, ...,  to reproduce the results discussed in the report.
 3. **Check output**: Output parameter maps and plots will be displayed as figures.
 
 ## Submission Components
 
 As required by the coursework specification, the submission consists of:
 
-1. **Written report**: `COMP0118_CW1_Report.pdf`
-2. **Figures document**: All figures referenced in the report are located in the `COMP0118_Coursework1_Figures/` directory.
+1. **Written report**: `COMP0118_Coursework1.pdf`
+2. **Figures document**: All figures referenced in the report are inside the `COMP0118_Coursework1_Figures` file.
 3. **Code listing**: The full MATLAB code is contained within the `COMP0118_Coursework1_Code/` directory.
 
 ## Author
 
 Francesco Seracini  
-MSc Machine Learning  
-University College London  
+MSc Computer Science - Artificial Intelligence  
+Politecnico di Milano - University College London  
 
