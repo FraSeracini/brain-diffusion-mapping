@@ -6,20 +6,21 @@ This project was completed as part of the COMP0118 module *Computational Modelli
 
 ## Repository Structure
 
-The repository includes the following components:
+The repository contains the following main components:
 
-/
-├── COMP0118_CW1_Report.pdf # Main report (max 3 pages)
-├── COMP0118_Coursework1_Figures/ # Directory containing figures and tables
-│ └── fig1.png, fig2.png, ... # Numbered and captioned figures referenced in the report
-├── COMP0118_Coursework1_Code/ # MATLAB code directory
-│ ├── Coursework1_Code.m # Main script covering all core tasks
-│ ├── BallStickSSD_constraints.m # Ball-and-stick model with parameter constraints
-│ ├── BallStickSSD_constraints_signal.m # Signal prediction function
-│ ├── find_optimal_param_newdataset.m # Global minimum search with multiple initializations
-│ ├── DT_starting_point.m # Linear tensor model used to generate starting points
-│ └── ... # Additional helper scripts and function
+- **Coursework1.pdf**  
+  This is the coursework specification document provided by the instructor. It outlines the core and advanced tasks, required deliverables, and submission instructions.
 
+- **COMP0118_CW1_Report.pdf**  
+  This is the final written report (maximum 3 pages) that describes the methodology, analysis, and results for all the required tasks. It references both the code and figures.
+
+- **COMP0118_Coursework1_Figures/**  
+  This folder contains all figures and tables referenced in the report. Each figure is numbered and includes a short caption, as required by the coursework instructions.
+
+- **COMP0118_Coursework1_Code/**  
+  This folder includes all MATLAB scripts and functions used to perform the parameter estimation, model fitting, and mapping tasks described in the report. It contains:
+  
+  - `Coursework1_Code.m` — Main script implementing all core parts of the coursework.
 
 ## Requirements
 
